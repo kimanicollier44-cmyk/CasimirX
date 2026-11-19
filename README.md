@@ -1,4 +1,4 @@
-![CasimirX cover](assets/cover.png)
+![CasimirX cover](CasimirX%20cover.png)
 
 # CasimirX 🌌🌀
 
